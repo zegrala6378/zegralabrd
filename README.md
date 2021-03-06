@@ -1,0 +1,2 @@
+# zegralabrd
+privater server bastard
